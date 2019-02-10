@@ -16,4 +16,4 @@ The sensors have a default return value of 10/8/5 (depending on the type of sens
 The return values of each sensor is stored in a list and a weighted mean is taken.   
 Weighted mean = Sum(return value * angle of sensor) / Sum(return values).  
 This weighted mean is multiplied by a scaling factor and is added to the heading angle.  
-This, in short, enables the bot to turn.  
+This, in short, enables the bot to turn to avoid obstacles and ulitmately reach the destination autonomously.  
