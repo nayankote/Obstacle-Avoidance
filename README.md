@@ -1,4 +1,4 @@
-# Obstacle-Avoidance
+# Obstacle-Avoiding-Bot
 This is simple program written in python to simulate a bot having proximity sensors. The bot moves towards the destination with the
 help of sensor stimuli. I have used pygame (a python library used to make simple 2D games) to build the interface.   
 
